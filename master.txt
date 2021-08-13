@@ -1,1 +1,3 @@
 This is my first file
+
+The new line serves to indicate changes
